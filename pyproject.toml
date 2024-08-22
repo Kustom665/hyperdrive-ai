@@ -42,3 +42,6 @@ exclude = [".venv", ".vscode", "docs"]
 [tool.isort]
 line_length = 120
 profile = "black"
+
+
+
